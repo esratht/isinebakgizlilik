@@ -1,0 +1,93 @@
+GİZLİLİK POLİTİKASI VE KVKK AYDINLATMA METNİ
+
+İşine Bak · Yürürlük tarihi: 22 Kasım 2026
+
+İşine Bak, odaklanmana ve kişisel sorulara karşı sınır koymana yardım eden, cihaz üzerinde çalışan bir uygulamadır. Senin hakkında hiçbir kişisel veri toplamaz, geliştiriciye göndermez ya da kimseyle paylaşmaz. Uygulamaya yazdığın her şey kendi telefonunda kalır.
+
+1. Veri sorumlusu
+
+Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun (KVKK) 10. maddesi kapsamında bilgilendirme amacıyla hazırlanmıştır.
+
+Uygulamanın geliştiricisi: Esra Tahtalı
+
+Adres: Mersinli Ahmet Cad. No: 21, Akdeniz / Mersin, Türkiye
+
+İletişim: massalverse@gmail.com
+
+İşine Bak hiçbir kişisel veriyi geliştiriciye ya da başka bir yere aktarmadığı için geliştirici, uygulamaya girdiğin bilgilere erişemez ve bu bilgiler bakımından bir veri işleme faaliyeti yürütmez.
+
+2. Uygulamaya yazdıkların nerede durur?
+
+Hedeflerin, odak seansların, favori ve kendi yazdığın cevaplar, “Kendin Yaz” için yazdığın sorular, Koç ilerlemen, “Savuşturdum!” kayıtların, Karşılaştırma Günlüğü notların, Kendi Yolum hedeflerin ve ayarların yalnızca telefonundaki uygulama veritabanında saklanır. Bu bilgiler:
+
+- geliştiriciye ya da üçüncü kişilere ulaşmaz,
+
+- hiçbir hesapla ilişkilendirilmez, çünkü uygulamada hesap yoktur,
+
+- bir yapay zekâ servisine gönderilmez; cevap önerileri telefonunda kurallar ve şablonlarla üretilir.
+
+iPhone’da iCloud Yedekleme açıksa, uygulama verileri telefonun aldığı cihaz yedeğine dahil olabilir. Bu yedek Apple ile senin aranda kalır; geliştiriciye ulaşmaz.
+
+Günlük notları gibi serbest metin alanlarına özel nitelikli kişisel veri (örneğin sağlık bilgisi) yazman önerilmez; yazsan bile bu bilgi telefonundan çıkmaz.
+
+3. Toplamadığımız şeyler
+
+- Ad, e-posta, telefon numarası ya da başka bir kimlik bilgisi
+
+- Konum bilgisi
+
+- Rehber, kamera ya da mikrofon verisi; fotoğraf arşivin
+
+- Cihaz kimliği, reklam kimliği ya da IP adresi
+
+- Kullanım istatistikleri, çökme raporları ya da analiz verisi
+
+Uygulamada reklam, analiz aracı, takip kodu ya da üçüncü taraf yazılım geliştirme kiti (SDK) bulunmaz. Yazı tipleri dahil tüm dosyalar uygulamanın içindedir; uygulamanın kendi kodu internete bağlanmaz.
+
+4. Bildirimler
+
+Bildirim izni verirsen, odak seansın bittiğinde telefonun sana hatırlatma gösterir. Bu bildirimler telefonun içinde, yerel olarak zamanlanır; hiçbir sunucu kullanılmaz. İzni dilediğin zaman telefonunun ayarlarından ya da uygulamada Ben → Ayarlar bölümünden kapatabilirsin.
+
+5. Satın alma (İşine Bak Pro)
+
+Uygulama ücretsizdir; ek özellikler tek seferlik uygulama içi satın almayla (İşine Bak Pro) açılır. Ödeme işlemini Apple yürütür; ad, kart bilgisi ya da Apple kimliğin geliştiriciye ulaşmaz. Uygulama yalnızca Apple’ın telefona bildirdiği “Pro satın alındı” bilgisini kullanır. Apple, satış raporlarında geliştiriciyle ülke gibi sınırlı bilgiler paylaşabilir; bu bilgiler yalnızca muhasebe ve yasal yükümlülükler için kullanılır. Bu süreçte Apple’ın kendi gizlilik politikası geçerlidir.
+
+6. iCloud eşitleme (isteğe bağlı, Pro)
+
+Yalnızca sen açarsan, verilerin Apple’ın CloudKit hizmeti aracılığıyla kendi iCloud hesabındaki özel alana yazılır ve diğer cihazlarınla eşitlenir. Bu alana yalnızca sen erişebilirsin; geliştirici erişemez. Eşitlemeyi istediğin zaman Ben → Ayarlar → iCloud eşitleme bölümünden kapatabilirsin.
+
+7. Fotoğraflar
+
+Fotoğraflar izni yalnızca bir paylaşım kartını “Görüntüyü Kaydet” ile Fotoğraflar’a kaydetmek istediğinde istenir ve yalnızca kaydetmek için kullanılır. Uygulama fotoğraf arşivini okumaz.
+
+8. Verilerini silmek ve taşımak
+
+- Ben → Ayarlar → Tüm verileri sil ile her şeyi kalıcı olarak silebilirsin.
+
+- Ben → Ayarlar → Verileri dışa aktar ile tüm verilerini JSON dosyası olarak alabilirsin.
+
+- Uygulamayı telefonundan kaldırdığında cihazdaki tüm veriler de silinir. iCloud’daki kopyayı iPhone Ayarlar → [adın] → iCloud → Hesap Depolamasını Yönet bölümünden silebilirsin.
+
+Geliştiricinin elinde verilerinin bir kopyası olmadığı için silinen veriler geri getirilemez.
+
+9. KVKK kapsamındaki hakların
+
+KVKK’nın 11. maddesi uyarınca; kişisel verilerinin işlenip işlenmediğini öğrenme, işlenmişse buna ilişkin bilgi talep etme, işlenme amacını öğrenme, aktarıldığı kişileri bilme, düzeltilmesini ya da silinmesini isteme, itiraz etme ve zarara uğraman hâlinde zararın giderilmesini talep etme haklarına sahipsin.
+
+İşine Bak kişisel veri işlemediği için bu sorulara cevabımız: verilerin işlenmemekte ve kimseye aktarılmamaktadır. Yine de her türlü soru ve başvurun için massalverse@gmail.com adresine yazabilirsin. Başvurular en geç 30 gün içinde ücretsiz olarak cevaplanır.
+
+10. Yurt dışına aktarım
+
+Geliştirici tarafından yurt içine ya da yurt dışına herhangi bir kişisel veri aktarımı yapılmaz. iCloud eşitlemesini açarsan verilerin, Apple ile aranızdaki iCloud sözleşmesi çerçevesinde, yurt dışında bulunabilecek Apple sunucularındaki kendi hesabına yazılır.
+
+Uygulama hakkında
+
+İşine Bak’taki hazır cevaplar ve dersler genel öneriler ve mizah içerir. Psikolojik, tıbbi ya da hukuki tavsiye yerine geçmez.
+
+11. Çocuklar
+
+İşine Bak hiç kimseden, çocuklar dahil, kişisel veri toplamaz.
+
+12. Değişiklikler
+
+Uygulama ileride veri toplayan bir özellik kazanırsa, bu metin özellik yayınlanmadan önce güncellenir ve uygulama içinde açıkça bildirilir. Güncel metin her zaman bu sayfada yer alır.

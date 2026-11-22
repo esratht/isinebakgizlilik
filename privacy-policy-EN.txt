@@ -1,0 +1,81 @@
+PRIVACY POLICY
+
+None of Your Business (İşine Bak) · Effective date: November 22, 2026
+
+None of Your Business is an on-device app that helps you focus and set boundaries against nosy personal questions. It does not collect any personal data about you, never sends anything to the developer and shares nothing with anyone. Everything you type stays on your own phone.
+
+1. Who we are
+
+Developer: Esra Tahtalı
+
+Address: Mersinli Ahmet Cad. No: 21, Akdeniz / Mersin, Türkiye
+
+Contact: massalverse@gmail.com
+
+This notice is also provided under Turkish Personal Data Protection Law No. 6698 (KVKK). Because the app sends no data to us or anyone else, the developer cannot access the information you enter.
+
+2. Where your entries are stored
+
+Your goals, focus sessions, favourite and saved answers, the questions you type into “Write”, Coach progress, “Dodged it!” records, Comparison Journal notes, My Path goals and settings are stored only in the app’s database on your phone. They never reach the developer or third parties, are not linked to any account (the app has no accounts) and are never sent to an AI service: answer suggestions are generated on your phone with rules and templates.
+
+If iCloud Backup is on, app data may be included in your device backup. That backup stays between you and Apple and never reaches the developer.
+
+3. What we do not collect
+
+- Name, email, phone number or any other identifier
+
+- Location
+
+- Contacts, camera or microphone data; your photo library
+
+- Device ID, advertising ID or IP address
+
+- Usage statistics, crash reports or analytics
+
+The app contains no ads, analytics, trackers or third-party SDKs. All files, including fonts, are bundled in the app; the app’s own code never connects to the internet.
+
+4. Notifications
+
+If you allow notifications, your phone reminds you when a focus session ends. They are scheduled locally on your device; no server is used. You can turn them off anytime in your phone’s settings or in Me → Settings.
+
+5. Purchase (Pro)
+
+The app is free; extra features unlock with a one-time in-app purchase. Payment is handled by Apple, and your name, card details or Apple ID never reach the developer. The app only uses the “Pro purchased” status Apple reports to the device. Apple may share limited information such as country in sales reports; this is used only for accounting and legal obligations. Apple’s own privacy policy applies to the purchase.
+
+6. iCloud sync (optional, Pro)
+
+Only if you turn it on, your data is written via Apple CloudKit to the private area of your own iCloud account and synced with your other devices. Only you can access it; the developer cannot. You can turn it off anytime in Me → Settings → iCloud sync.
+
+7. Photos
+
+Photos permission is requested only when you save a share card with “Save Image”, and is used only to save it. The app never reads your photo library.
+
+8. Deleting and exporting your data
+
+- Use Me → Settings → Delete all data to permanently erase everything.
+
+- Use Me → Settings → Export data to get all your data as a JSON file.
+
+- Uninstalling the app also deletes its data on the device. Remove the iCloud copy in iPhone Settings → [your name] → iCloud → Manage Account Storage.
+
+The developer holds no copy of your data, so deleted data cannot be recovered.
+
+9. Your rights
+
+Under KVKK Article 11 and similar laws such as the GDPR, you have the right to ask whether your personal data is processed, to request access, correction or deletion, and to object. Since the app processes no personal data, our answer is: your data is not processed or shared. You can still contact us at massalverse@gmail.com; we reply free of charge within 30 days.
+
+10. International transfers
+
+The developer does not transfer any personal data within or outside Turkey. If you turn on iCloud sync, your data is written to your own account on Apple’s servers, which may be located abroad, under your iCloud agreement with Apple.
+
+About the app
+
+The ready answers and lessons contain general suggestions and humour. They are not a substitute for psychological, medical or legal advice.
+
+11. Children
+
+The app collects no personal data from anyone, including children.
+
+12. Changes
+
+If the app ever gains a feature that collects data, this notice will be updated before that feature is released and you will be clearly informed in the app. The current notice is always on this page.
