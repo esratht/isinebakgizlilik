@@ -60,7 +60,11 @@ Yalnızca sen açarsan, verilerin Apple’ın CloudKit hizmeti aracılığıyla 
 
 Fotoğraflar izni yalnızca bir paylaşım kartını “Görüntüyü Kaydet” ile Fotoğraflar’a kaydetmek istediğinde istenir ve yalnızca kaydetmek için kullanılır. Uygulama fotoğraf arşivini okumaz.
 
-8. Verilerini silmek ve taşımak
+8. Ekran Süresi (Kaydırma Kalkanı)
+
+Kaydırma Kalkanı'nı kullanırsan uygulama, Apple'ın Ekran Süresi altyapısıyla seçtiğin uygulamaları yalnızca odak seansı boyunca kilitler. İzin, Apple'ın kendi penceresiyle istenir. Hangi uygulamaları seçtiğini Apple şifreli bir biçimde saklar; İşine Bak bile bunların adlarını göremez, kullanım süreni okumaz ve bu bilgiler telefonundan çıkmaz. İzni dilediğin zaman iPhone Ayarlar → Ekran Süresi bölümünden geri alabilirsin.
+
+9. Verilerini silmek ve taşımak
 
 - Ben → Ayarlar → Tüm verileri sil ile her şeyi kalıcı olarak silebilirsin.
 
@@ -70,13 +74,13 @@ Fotoğraflar izni yalnızca bir paylaşım kartını “Görüntüyü Kaydet” 
 
 Geliştiricinin elinde verilerinin bir kopyası olmadığı için silinen veriler geri getirilemez.
 
-9. KVKK kapsamındaki hakların
+10. KVKK kapsamındaki hakların
 
 KVKK’nın 11. maddesi uyarınca; kişisel verilerinin işlenip işlenmediğini öğrenme, işlenmişse buna ilişkin bilgi talep etme, işlenme amacını öğrenme, aktarıldığı kişileri bilme, düzeltilmesini ya da silinmesini isteme, itiraz etme ve zarara uğraman hâlinde zararın giderilmesini talep etme haklarına sahipsin.
 
 İşine Bak kişisel veri işlemediği için bu sorulara cevabımız: verilerin işlenmemekte ve kimseye aktarılmamaktadır. Yine de her türlü soru ve başvurun için massalverse@gmail.com adresine yazabilirsin. Başvurular en geç 30 gün içinde ücretsiz olarak cevaplanır.
 
-10. Yurt dışına aktarım
+11. Yurt dışına aktarım
 
 Geliştirici tarafından yurt içine ya da yurt dışına herhangi bir kişisel veri aktarımı yapılmaz. iCloud eşitlemesini açarsan verilerin, Apple ile aranızdaki iCloud sözleşmesi çerçevesinde, yurt dışında bulunabilecek Apple sunucularındaki kendi hesabına yazılır.
 
@@ -84,10 +88,10 @@ Uygulama hakkında
 
 İşine Bak’taki hazır cevaplar ve dersler genel öneriler ve mizah içerir. Psikolojik, tıbbi ya da hukuki tavsiye yerine geçmez.
 
-11. Çocuklar
+12. Çocuklar
 
 İşine Bak hiç kimseden, çocuklar dahil, kişisel veri toplamaz.
 
-12. Değişiklikler
+13. Değişiklikler
 
 Uygulama ileride veri toplayan bir özellik kazanırsa, bu metin özellik yayınlanmadan önce güncellenir ve uygulama içinde açıkça bildirilir. Güncel metin her zaman bu sayfada yer alır.
